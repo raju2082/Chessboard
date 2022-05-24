@@ -1,2 +1,2 @@
-# volume-of-water-in-a-chessboard
-Calculates volume of water in a nxn chessboard
+# Volume of water in a nxn Chessboard
+
