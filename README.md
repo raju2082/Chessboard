@@ -47,7 +47,7 @@ Scanning dependencies of target calcVolume
 raju@dev:build$ ls
 calcVolume  CMakeCache.txt  CMakeFiles  cmake_install.cmake  Makefile
 
-Execution:
+Testing:
 ----------
 $ ./calcVolume 8 8 board_8x8.txt
 i.e., 
